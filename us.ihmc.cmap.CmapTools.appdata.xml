@@ -4,7 +4,7 @@
   <id>us.ihmc.cmap.CmapTools</id>
   <name>CmapTools</name>
   <project_license>LicenseRef-proprietary=https://cmap.ihmc.us/docs/license-cmaptools-client.php</project_license>
-  <summary>Allows users to to create and share concept maps.</summary>
+  <summary>Create and share concept maps</summary>
   <developer_name>Florida Institute for Human &amp; Machine Cognition</developer_name>
   <launchable type="desktop-id">us.ihmc.cmap.CmapTools.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
