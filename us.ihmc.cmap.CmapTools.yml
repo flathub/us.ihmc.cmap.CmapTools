@@ -1,10 +1,12 @@
 app-id: us.ihmc.cmap.CmapTools
 runtime: org.freedesktop.Platform
-runtime-version: 24.08
+runtime-version: 25.08
 sdk: org.freedesktop.Sdk
 command: cmaptools
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.openjdk8
+tags:
+  - proprietary
 finish-args:
   - --socket=x11
   - --share=ipc
